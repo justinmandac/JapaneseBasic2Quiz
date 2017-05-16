@@ -1,0 +1,28 @@
+body {
+  font-family: Roboto;
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.54);
+}
+
+.lessontitle {
+  color: rgba(255, 0, 0, 0.87);
+}
+
+span {
+  float: left;
+  text-align: center;
+  margin: 18px;
+  padding: 0 24px 24px 24px;
+  border: 1px solid #ECECEC;
+}
+
+input {
+  font-size: 1.2em;
+}
+
+button {
+  border: none;
+  font-size: 1.5em;
+  background-color: #974321;
+  color: #FAFAFA;
+}
